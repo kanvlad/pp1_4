@@ -23,7 +23,7 @@ public class Main {
 
         service.cleanUsersTable();
 
-        //service.dropUsersTable();
+        service.dropUsersTable();
 
 
         // реализуйте алгоритм здесь

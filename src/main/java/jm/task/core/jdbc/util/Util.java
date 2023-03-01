@@ -39,7 +39,7 @@ public class Util {
     }
 
 
-    public SessionFactory getSessionFactory(){
+    public static SessionFactory getSessionFactory() {
 
         if(SESSIONFACTORY == null){
 
